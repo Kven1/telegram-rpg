@@ -27,7 +27,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone <URL вашего репозитория>
+   git clone git@github.com:Kven1/telegram-rpg.git
    cd <папка с проектом>
    ```
 
